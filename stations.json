@@ -1,0 +1,100 @@
+[
+  {
+    "station_name": "紅樹林",
+    "train_id": "V01",
+    "latitude": 25.155496,
+    "longitude": 121.459045,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "竿蓁林",
+    "train_id": "V02",
+    "latitude": 25.162312,
+    "longitude": 121.456187,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "淡金鄧公",
+    "train_id": "V03",
+    "latitude": 25.169313,
+    "longitude": 121.460813,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "淡江大學",
+    "train_id": "V04",
+    "latitude": 25.176812,
+    "longitude": 121.455938,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "淡金北新",
+    "train_id": "V05",
+    "latitude": 25.181188,
+    "longitude": 121.452313,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "新市一路",
+    "train_id": "V06",
+    "latitude": 25.183687,
+    "longitude": 121.448437,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "淡水行政中心",
+    "train_id": "V07",
+    "latitude": 25.189062,
+    "longitude": 121.444563,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "濱海義山",
+    "train_id": "V08",
+    "latitude": 25.189687,
+    "longitude": 121.437438,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "濱海沙崙",
+    "train_id": "V09",
+    "latitude": 25.190562,
+    "longitude": 121.431438,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "淡海新市鎮",
+    "train_id": "V10",
+    "latitude": 25.195687,
+    "longitude": 121.432437,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "崁頂",
+    "train_id": "V11",
+    "latitude": 25.200812,
+    "longitude": 121.434562,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "淡水漁人碼頭",
+    "train_id": "V26",
+    "latitude": 25.182063,
+    "longitude": 121.418688,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "沙崙",
+    "train_id": "V27",
+    "latitude": 25.187562,
+    "longitude": 121.417313,
+    "accuracy_m": 100
+  },
+  {
+    "station_name": "台北海洋大學",
+    "train_id": "V28",
+    "latitude": 25.191187,
+    "longitude": 121.426437,
+    "accuracy_m": 100
+  }
+]
